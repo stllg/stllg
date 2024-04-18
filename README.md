@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @stllg
-- 👀 I’m a Data Analyst
-- 🌱 I’m currently learning Machine Learning 
+
+-
+
 
 
 <!---
